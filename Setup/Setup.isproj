@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<!-- Select a Product Configuration -->
+		<InstallShieldProductConfiguration>Express</InstallShieldProductConfiguration>
+		<!-- Select a Visual Studio Configuration / InstallShield Release -->
+		<Configuration>Debug</Configuration>
+		<InstallShieldRelease>$(Configuration)</InstallShieldRelease>
+	</PropertyGroup>
+	<ItemGroup>
+		<!-- The InstallShieldProject item selects the project to build -->
+		<InstallShieldProject Include="$(MSBuildProjectDirectory)\$(MSBuildProjectName).isl"/>
+		<!-- The InstallShieldReleaseFlags sets Release Flags -->
+		<!--<InstallShieldReleaseFlags Include=""/>-->
+		<!-- The InstallShieldMergeModulePath specifies what directories are
+		searched for Merge Modules -->
+		<!--<InstallShieldMergeModulePath Include=""/>-->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The ProjectReference items refer to any Visual Studio solutions you want to automatically probe for Project Output Groups.  -->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The TaggedOutputs items allow you to explicitly add extra files to output groups. Each item must include both Name and OutputGroup, as well as TargetPath metadata values. -->
+		<!--<TaggedOutputs Include="C:\My Test Exe.exe">
+			<Name>My Test Project</Name>
+			<OutputGroup>Primary output</OutputGroup>
+			<TargetPath>My Test Exe.exe</TargetPath>
+		</TaggedOutputs> -->
+	</ItemGroup>
+	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2013Limited\InstallShield.targets"/>
+	<ItemGroup/>
+	<ItemGroup>
+		<ProjectReference Include="..\BLL\BLL.vbproj">
+			<Name>BLL</Name>
+			<Project>{536A73BA-5DC6-4C0F-B448-8825C6625189}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\DAL\DAL.vbproj">
+			<Name>DAL</Name>
+			<Project>{A4811316-28FE-4AF0-82A1-4351FA9B9948}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Estructura\Estructura.vbproj">
+			<Name>Estructura</Name>
+			<Project>{B454BB18-5681-4B45-98F0-FF56E1D57756}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\GUI\GUI.vbproj">
+			<Name>GUI</Name>
+			<Project>{8B9095E8-ED70-4ECB-A3FE-477815930951}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Seguridad\Seguridad.vbproj">
+			<Name>Seguridad</Name>
+			<Project>{22EA8E2F-55AE-4EEA-A7DC-13C0172A3259}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Servicios DAL\Servicios DAL.vbproj">
+			<Name>Servicios DAL</Name>
+			<Project>{F1A51846-E53C-4CEC-96B9-D2E61C41BAA8}</Project>
+		</ProjectReference>
+	</ItemGroup>
+</Project>

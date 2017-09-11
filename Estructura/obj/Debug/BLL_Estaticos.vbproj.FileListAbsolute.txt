@@ -1,0 +1,10 @@
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\BLL_Estaticos\bin\Debug\BLL_Estaticos.dll.config
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\BLL_Estaticos\bin\Debug\BLL_Estaticos.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\BLL_Estaticos\bin\Debug\BLL_Estaticos.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\BLL_Estaticos\obj\Debug\BLL_Estaticos.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\BLL_Estaticos\obj\Debug\BLL_Estaticos.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\BLL_Estaticos\bin\Debug\BLL_Estaticos.dll.config
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\BLL_Estaticos\bin\Debug\BLL_Estaticos.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\BLL_Estaticos\bin\Debug\BLL_Estaticos.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\BLL_Estaticos\obj\Debug\BLL_Estaticos.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\BLL_Estaticos\obj\Debug\BLL_Estaticos.pdb

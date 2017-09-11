@@ -1,0 +1,413 @@
+\document
+{
+  \styles
+  {
+    Heading1
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level1
+      }
+    }
+
+    Heading2
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level2
+      }
+    }
+
+    Heading3
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level3
+      }
+    }
+
+    Heading4
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level4
+      }
+    }
+
+    Heading5
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level5
+      }
+    }
+
+    Heading6
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level6
+      }
+    }
+
+    Heading7
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level7
+      }
+    }
+
+    Heading8
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level8
+      }
+    }
+
+    Heading9
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level9
+      }
+    }
+
+    InvalidStyleName
+    {
+      Font
+      {
+        Bold = true
+        Underline = Dash
+        Color = Lime
+      }
+    }
+  }
+  \section
+  {
+    \table
+    {
+      \columns
+      {
+        \column
+        [
+          Width = "10cm"
+        ]
+        \column
+        [
+          Width = "6cm"
+        ]
+      }
+      \rows
+      {
+        \row
+        [
+          BottomPadding = 5
+          Borders
+          {
+            Bottom
+            {
+              Visible = true
+              Width = 1
+            }
+          }
+        ]
+        {
+          \cell
+          {
+            \paragraph
+            [
+              Format
+              {
+                Font
+                {
+                  Size = 13
+                }
+              }
+            ]
+            {
+              PRESUPUESTO
+            }
+            \paragraph
+            [
+              Format
+              {
+                Font
+                {
+                  Size = 13
+                }
+              }
+            ]
+            {
+              S.G.R.V.
+            }
+            \paragraph
+            [
+              Format
+              {
+                Font
+                {
+                  Size = 12
+                }
+              }
+            ]
+            {
+              Sistema de Gestion y Reporte de Ventas
+            }
+          }
+          \cell
+          {
+            \paragraph
+            [
+              Format
+              {
+                Font
+                {
+                  Size = 9
+                }
+              }
+            ]
+            {
+              Número: #4362\linebreak
+              Fecha: 04/11/2014\linebreak
+              Vencimiento: 19/11/2014\linebreak
+              Vendedor: Gonzalez, José
+            }
+          }
+        }
+      }
+    }
+    \paragraph
+    {
+      \linebreak
+    }
+    \table
+    [
+      Format
+      {
+        Font
+        {
+          Size = 8
+        }
+      }
+      TopPadding = 3
+      LeftPadding = 3
+      RightPadding = 3
+      BottomPadding = 3
+      Borders
+      {
+        Width = 0.5
+      }
+    ]
+    {
+      \columns
+      {
+        \column
+        [
+          Format
+          {
+            Alignment = Center
+          }
+          Width = "30mm"
+        ]
+        \column
+        [
+          Width = "50mm"
+        ]
+        \column
+        [
+          Format
+          {
+            Alignment = Right
+          }
+          Width = "30mm"
+        ]
+        \column
+        [
+          Format
+          {
+            Alignment = Center
+          }
+          Width = "20mm"
+        ]
+        \column
+        [
+          Format
+          {
+            Alignment = Right
+          }
+          Width = "30mm"
+        ]
+      }
+      \rows
+      {
+        \row
+        [
+          Shading
+          {
+            Color = LightGray
+          }
+        ]
+        {
+          \cell
+          {
+            Código
+          }
+          \cell
+          {
+            Nombre
+          }
+          \cell
+          {
+            Precio
+          }
+          \cell
+          {
+            Cantidad
+          }
+          \cell
+          {
+            Total
+          }
+        }
+        \row
+        {
+          \cell
+          {
+            114
+          }
+          \cell
+          {
+            MOUSE MINI OPTICO RETRACTIL USB
+          }
+          \cell
+          {
+            90
+          }
+          \cell
+          {
+            100
+          }
+          \cell
+          {
+            $ 9000
+          }
+        }
+        \row
+        {
+          \cell
+          {
+            109
+          }
+          \cell
+          {
+            PLACA DE RED WIRELESS USB
+          }
+          \cell
+          {
+            180
+          }
+          \cell
+          {
+            100
+          }
+          \cell
+          {
+            $ 18050
+          }
+        }
+        \row
+        {
+          \cell
+          [
+            Format
+            {
+              Alignment = Right
+            }
+            MergeRight = 3
+          ]
+          {
+            \paragraph
+            [
+              Format
+              {
+                Font
+                {
+                  Bold = true
+                }
+              }
+            ]
+            {
+              Total
+            }
+          }
+          \cell
+          \cell
+          \cell
+          \cell
+          {
+            $ 27050
+          }
+        }
+      }
+    }
+    \paragraph
+    {
+      \linebreak
+    }
+    \table
+    [
+      Format
+      {
+        Font
+        {
+          Size = 5
+        }
+      }
+      TopPadding = 3
+      LeftPadding = 3
+      RightPadding = 3
+      BottomPadding = 3
+      Borders
+      {
+        Width = 0.5
+      }
+    ]
+    {
+      \columns
+      {
+        \column
+        [
+          Format
+          {
+            Alignment = Center
+          }
+          Width = "30mm"
+        ]
+      }
+      \rows
+      {
+        \row
+        [
+          Shading
+          {
+            Color = LightGray
+          }
+        ]
+        {
+          \cell
+          {
+            Firma del Vendedor
+          }
+        }
+        \row
+        [
+          Height = 20
+        ]
+        {
+        }
+      }
+    }
+  }
+}

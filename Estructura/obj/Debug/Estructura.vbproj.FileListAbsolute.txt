@@ -1,0 +1,16 @@
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\Estructura\bin\Debug\Estructura.dll.config
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\Estructura\bin\Debug\Estructura.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\Estructura\bin\Debug\Estructura.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\Estructura\obj\Debug\Estructura.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\Estructura\obj\Debug\Estructura.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\Estructura\bin\Debug\Estructura.dll.config
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\Estructura\bin\Debug\Estructura.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\Estructura\bin\Debug\Estructura.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\Estructura\obj\Debug\Estructura.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\Estructura\obj\Debug\Estructura.pdb
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\Estructura\bin\Debug\Estructura.dll.config
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\Estructura\bin\Debug\Estructura.dll
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\Estructura\bin\Debug\Estructura.pdb
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\Estructura\obj\Debug\Estructura.vbprojResolveAssemblyReference.cache
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\Estructura\obj\Debug\Estructura.dll
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\Estructura\obj\Debug\Estructura.pdb

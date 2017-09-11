@@ -1,0 +1,176 @@
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\GUI.exe.config
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\GUI.exe
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\GUI.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\GUI.xml
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\DAL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\DAL.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormMain.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.Resources.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.exe
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.xml
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\GUI.exe.config
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\obj\Debug\GUI.exe
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\obj\Debug\GUI.xml
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\obj\Debug\GUI.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\GUI.exe
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\GUI.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\GUI.xml
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\BLL_Dinamicos.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\BLL_Estaticos.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\Controladores.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\BLL_Dinamicos.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\BLL_Estaticos.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\Controladores.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\obj\Debug\GUI.FormMain.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\obj\Debug\GUI.Resources.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\DAL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\DAL_Servicios.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\DAL.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\bin\Debug\DAL_Servicios.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\obj\Debug\GUI.PresupuestoMain.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\obj\Debug\GUI.PresupuestoVer.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\obj\Debug\GUI.FormLogin.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV - copia\GUI\obj\Debug\GUI.PresupuestoCrear.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormLogin.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\Seguridad.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\Seguridad.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\BLL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\Estructura.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\ServiciosDAL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\BLL.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\Estructura.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\ServiciosDAL.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormFamilias.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormFamilia.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormClientes.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormCliente.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormPresupuestos.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormEmpleado.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormEmpleados.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormPresupuesto.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormSucursales.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormSucursal.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormFormaPago.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormFormasPago.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormProductos.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormProducto.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormIdiomas.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormIdioma.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.BotoneraFiltrador.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\obj\Debug\GUI.FormEventosBitacora.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\MigraDoc.Rendering.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\GUI\bin\Debug\PdfSharp.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\GUI.exe.config
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.exe
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.xml
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\GUI.exe
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\GUI.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\GUI.xml
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\BLL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\Estructura.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\DAL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\MigraDoc.Rendering.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\PdfSharp.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\Seguridad.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\ServiciosDAL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\BLL.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\Estructura.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\DAL.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\Seguridad.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\bin\Debug\ServiciosDAL.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.BotoneraFiltrador.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormMain.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormLogin.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.Resources.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormEventosBitacora.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormCliente.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormClientes.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormEmpleado.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormEmpleados.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormFamilia.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormFamilias.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormFormaPago.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormFormasPago.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormIdioma.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormIdiomas.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormPresupuesto.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormPresupuestos.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormProducto.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormProductos.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormSucursal.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormSucursales.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormFactura.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormFacturas.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormEnviando.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormEstadisticasPresupuestosYVentas.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormEstadisticasProductos.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\GUI\obj\Debug\GUI.FormSeleccionarCliente.resources
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\GUI.exe.config
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.exe
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.xml
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.pdb
+C:\Users\mati\Google Drive\Facu\3. Tercer Año\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\GUI.exe.config
+C:\Users\mati\Google Drive\Facu\3. Tercer Año\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.exe
+C:\Users\mati\Google Drive\Facu\3. Tercer Año\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.xml
+C:\Users\mati\Google Drive\Facu\3. Tercer Año\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.pdb
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\GUI.exe.config
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.exe
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.xml
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.pdb
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\GUI.exe
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\GUI.pdb
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\GUI.xml
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\BLL.dll
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\Estructura.dll
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\MigraDoc.Rendering.dll
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\DAL.dll
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\PdfSharp.dll
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\Seguridad.dll
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\ServiciosDAL.dll
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\BLL.pdb
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\Estructura.pdb
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\DAL.pdb
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\Seguridad.pdb
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\ServiciosDAL.pdb
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.BotoneraFiltrador.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormMain.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormLogin.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.Resources.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormEventosBitacora.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormCliente.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormClientes.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormSeleccionarCliente.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormEmpleado.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormEmpleados.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormEstadisticasPresupuestosYVentas.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormEstadisticasProductos.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormFactura.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormFacturas.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormFamilia.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormFamilias.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormFormaPago.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormFormasPago.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormIdioma.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormIdiomas.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormPresupuesto.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormEnviando.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormPresupuestos.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormProducto.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormProductos.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormSucursal.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.FormSucursales.resources
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\BLL.dll.config
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\GUI\bin\Debug\Estructura.dll.config

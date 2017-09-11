@@ -1,0 +1,12 @@
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\DAL\bin\Release\DAL.dll.config
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\DAL\bin\Release\DAL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\DAL\bin\Release\DAL.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\DAL\bin\Release\Estructura.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\DAL\bin\Release\Seguridad.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\DAL\bin\Release\ServiciosDAL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\DAL\bin\Release\Estructura.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\DAL\bin\Release\Seguridad.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\DAL\bin\Release\ServiciosDAL.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\DAL\obj\Release\DAL.vbprojResolveAssemblyReference.cache
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\DAL\obj\Release\DAL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\DAL\obj\Release\DAL.pdb

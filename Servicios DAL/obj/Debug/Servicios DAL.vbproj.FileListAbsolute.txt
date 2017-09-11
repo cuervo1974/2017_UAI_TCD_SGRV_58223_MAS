@@ -1,0 +1,16 @@
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\Servicios DAL\bin\Debug\ServiciosDAL.dll.config
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\Servicios DAL\bin\Debug\ServiciosDAL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\Servicios DAL\bin\Debug\ServiciosDAL.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\Servicios DAL\obj\Debug\ServiciosDAL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Campo I\Sistema\SGRV\Servicios DAL\obj\Debug\ServiciosDAL.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\Servicios DAL\bin\Debug\ServiciosDAL.dll.config
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\Servicios DAL\bin\Debug\ServiciosDAL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\Servicios DAL\bin\Debug\ServiciosDAL.pdb
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\Servicios DAL\obj\Debug\ServiciosDAL.dll
+D:\Google Drive\Facu\Tercer Año\Trabajo de Diploma\Sistema\SGRV\Servicios DAL\obj\Debug\ServiciosDAL.pdb
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\Servicios DAL\bin\Debug\ServiciosDAL.dll.config
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\Servicios DAL\bin\Debug\ServiciosDAL.dll
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\Servicios DAL\bin\Debug\ServiciosDAL.pdb
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\Servicios DAL\obj\Debug\Servicios DAL.vbprojResolveAssemblyReference.cache
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\Servicios DAL\obj\Debug\ServiciosDAL.dll
+D:\Documentos\Facultad\Revisar\Trabajo de Diploma\Sistema\SGRV - Código Fuente\Servicios DAL\obj\Debug\ServiciosDAL.pdb
